@@ -12,3 +12,4 @@ Creating a new branch.
 
 just do a modify.
 Creating a bug.
+Creating a new branch is quick AND simple.

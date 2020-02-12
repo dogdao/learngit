@@ -11,4 +11,9 @@ Creating a new branch is quick and simple.
 Creating a new branch.
 
 just do a modify.
+<<<<<<< HEAD
+Creating a bug.
+=======
+Creating a bug.
+>>>>>>> dev
 Creating a new branch is quick AND simple.
